@@ -2,5 +2,5 @@ streamlit
 pandas
 numpy
 joblib
-tensorflow-체ㅕ
+tensorflow-cpu
 scikit-learn
